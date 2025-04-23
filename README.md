@@ -1,1 +1,1 @@
-Hi, I’m @antenomy
+Hello, I’m @antenomy. I’m an aspiring software developer currently studying mathematics and computer science at university, with a passion for machine learning and game design. On my page, you'll find some projects I'm working on, past school group assignments, and maybe a game or two - if I get around to finishing my backlog.
